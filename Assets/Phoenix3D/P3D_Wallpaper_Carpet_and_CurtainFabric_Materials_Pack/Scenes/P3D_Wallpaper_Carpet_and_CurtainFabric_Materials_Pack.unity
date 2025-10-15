@@ -2959,14 +2959,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 31796411405960340, guid: 81eb2cc13e2840845b30715d5371f706, type: 3}
-      propertyPath: m_Text
-      value: Welcome to the Indoor Design Starter Kit! This package gives you access
-        to 30+ high-quality indoor models, plus a selection of demo textures for
-        free. Additionally, you can explore over 1,000 wall, floor, and curtain textures
-        available in separate packages. For the best value, grab our Ultimate Bundle
-        at a 30% discount, providing all the textures you need :)
-      objectReference: {fileID: 0}
     - target: {fileID: 336921136506205029, guid: 81eb2cc13e2840845b30715d5371f706, type: 3}
       propertyPath: url
       value: https://assetstore.unity.com/packages/slug/251190
@@ -2982,10 +2974,6 @@ PrefabInstance:
     - target: {fileID: 3415850598572796347, guid: 81eb2cc13e2840845b30715d5371f706, type: 3}
       propertyPath: url
       value: https://assetstore.unity.com/packages/slug/254380
-      objectReference: {fileID: 0}
-    - target: {fileID: 5856802352235660021, guid: 81eb2cc13e2840845b30715d5371f706, type: 3}
-      propertyPath: m_Text
-      value: '*Exclusive Deal* Ultimate Bundle (30% OFF!)'
       objectReference: {fileID: 0}
     - target: {fileID: 7007738378908466246, guid: 81eb2cc13e2840845b30715d5371f706, type: 3}
       propertyPath: url
