@@ -1,5 +1,5 @@
 Description
-This project (so far) is a VR environment where you can explore a basic bedroom 
+This project (so far) is a VR environment where you can explore the room of an undead being that worships and sacrifices people to Cthulu and sleeps in a coffin
 
 Assets/asset packs used
 Unity asset store
